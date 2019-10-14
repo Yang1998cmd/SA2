@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.48">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mysql-jdbc/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48" />
+      <root url="jar://$PROJECT_DIR$/../软件体系与结构/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../软件体系与结构/jfreechart-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mysql-jdbc/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../mysql-jdbc/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48" recursive="false" />
+  </library>
+</component>
